@@ -23,7 +23,7 @@
 ## approve 하기
 - git 사이트에서 [Pull request]클릭 -> 팀원이 push 한 부분 클릭 -> [Files Change]클릭 -> 
   [Review changed]클릭 ->[Approve]클릭 -> [Merge pull request] 클릭
-
+Ha
 ## Pull 받은 브랜치와 현재 작업 중인 브랜치 합지기 (Merge)
 - git checkout 작업중인 브랜치명 
 - git merge 합치고 싶은 브랜치명 (ex.pull 받은 main 브랜치)
